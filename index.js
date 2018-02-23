@@ -1,3 +1,5 @@
 var recipes = {'mousse':'cake'}
 
-function updateObjectWithKeyAndValue()
+function updateObjectWithKeyAndValue(object,key,value){
+  
+}
